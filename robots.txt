@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://visorprodashcam.github.io/visor-site/sitemap.xml
+Sitemap: https://visorprodashcam.github.io/index.html/sitemap.xml
